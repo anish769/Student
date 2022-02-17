@@ -1,0 +1,37 @@
+C:\Users\atboy\source\repos\Student detail\Student detail\bin\Debug\Student detail.exe.config
+C:\Users\atboy\source\repos\Student detail\Student detail\bin\Debug\Student detail.exe
+C:\Users\atboy\source\repos\Student detail\Student detail\bin\Debug\Student detail.pdb
+C:\Users\atboy\source\repos\Student detail\Student detail\obj\Debug\Student detail.csprojAssemblyReference.cache
+C:\Users\atboy\source\repos\Student detail\Student detail\obj\Debug\Student_detail.Properties.Resources.resources
+C:\Users\atboy\source\repos\Student detail\Student detail\obj\Debug\Student detail.csproj.GenerateResource.cache
+C:\Users\atboy\source\repos\Student detail\Student detail\obj\Debug\Student detail.csproj.CoreCompileInputs.cache
+C:\Users\atboy\source\repos\Student detail\Student detail\obj\Debug\Student detail.exe
+C:\Users\atboy\source\repos\Student detail\Student detail\obj\Debug\Student detail.pdb
+C:\Users\atboy\source\repos\Student detail\Student detail\bin\Debug\MySql.Data.dll
+C:\Users\atboy\source\repos\Student detail\Student detail\bin\Debug\Google.Protobuf.dll
+C:\Users\atboy\source\repos\Student detail\Student detail\bin\Debug\MySql.Data.xml
+C:\Users\atboy\source\repos\Student detail\Student detail\obj\Debug\Student detail.csproj.CopyComplete
+C:\Users\atboy\source\repos\Student detail\Student detail\obj\Debug\Student_detail.teacher.resources
+C:\Users\atboy\source\repos\Student detail\Student detail\obj\Debug\Student_detail.Login.resources
+C:\Users\atboy\source\repos\Student detail\Student detail\obj\Debug\Student_detail.student.resources
+C:\Users\atboy\source\repos\Student detail\Student detail\obj\Debug\Student_detail.dashboard.resources
+C:\Users\atboy\source\repos\Student detail\Student detail\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\atboy\source\repos\Student detail\Student detail\bin\Debug\Bunifu.Core.dll
+C:\Users\atboy\source\repos\Student detail\Student detail\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+F:\My Project\Student detail\Student detail\bin\Debug\Student detail.exe.config
+F:\My Project\Student detail\Student detail\bin\Debug\Student detail.exe
+F:\My Project\Student detail\Student detail\bin\Debug\Student detail.pdb
+F:\My Project\Student detail\Student detail\bin\Debug\Bunifu.Core.dll
+F:\My Project\Student detail\Student detail\bin\Debug\Google.Protobuf.dll
+F:\My Project\Student detail\Student detail\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+F:\My Project\Student detail\Student detail\bin\Debug\MySql.Data.xml
+F:\My Project\Student detail\Student detail\obj\Debug\Student detail.csprojResolveAssemblyReference.cache
+F:\My Project\Student detail\Student detail\obj\Debug\Student_detail.dashboard.resources
+F:\My Project\Student detail\Student detail\obj\Debug\Student_detail.student.resources
+F:\My Project\Student detail\Student detail\obj\Debug\Student_detail.Login.resources
+F:\My Project\Student detail\Student detail\obj\Debug\Student_detail.Properties.Resources.resources
+F:\My Project\Student detail\Student detail\obj\Debug\Student_detail.teacher.resources
+F:\My Project\Student detail\Student detail\obj\Debug\Student detail.csproj.GenerateResource.Cache
+F:\My Project\Student detail\Student detail\obj\Debug\Student detail.csproj.CoreCompileInputs.cache
+F:\My Project\Student detail\Student detail\obj\Debug\Student detail.exe
+F:\My Project\Student detail\Student detail\obj\Debug\Student detail.pdb
